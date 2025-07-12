@@ -17,3 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 - Created a Vite + React Application
 - Remove unecessary code
 - Install Tailwind CSS
+- Install Daisy UI
