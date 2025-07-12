@@ -18,3 +18,14 @@ If you are developing a production application, we recommend using TypeScript wi
 - Remove unecessary code
 - Install Tailwind CSS
 - Install Daisy UI
+- Install react router dom
+- Created a Demo routes
+
+
+Design of the App
+
+    Navbar
+    Route=/ => feed
+    Route/login => Login
+    Route/connection => Connections
+    Route
